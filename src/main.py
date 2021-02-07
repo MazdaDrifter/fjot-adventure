@@ -32,4 +32,12 @@ elif itemChosen1 == "Cooked Mutton":
     food1 = "Cooked Mutton"
 elif itemChosen1 == "Bread":
     food1 = "Bread"
-
+print("You started your adventure!")
+import time
+time.sleep(1)
+print("There’s a black mist given off by an evil ox man killing many fjots. You are the only fjot alive and you were received a letter from the ground, it says:")
+print("Dear fellow fjot, this is your brother fjot writing you a letter to let you know i’m still alive. Please, help me, I’ve been without food for days. Please find me dear fjot. - fjot")
+location = input("Where would you like to go? Available: Ox Field\n>")
+if location == "Ox Field":
+    print("You see many oxen... They have a weird flash in their eyes...")
+input("Press ENTER to continue.")
