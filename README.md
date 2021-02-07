@@ -1,5 +1,5 @@
 # Fjot Adventure
-Text based/3D RPG written from scratch (no external libraries). 
+Text based/topdown RPG written from scratch (no external libraries). 
 
 ## Contributers
 - owowoowo, master branch developer
