@@ -1,3 +1,4 @@
+  
 # Imports
 import time, random
 
@@ -42,3 +43,8 @@ location = input("Where would you like to go? Available: Ox Field\n>")
 if location == "Ox Field":
     print("You see many oxen... They have a weird flash in their eyes...")
 input("Press ENTER to continue.")
+print("You run away from the field...")
+print("The wind sways and you receive a note entitled ''Ox Man Profile''")
+time.sleep(1)
+print("Inside of the note it says:The ox man is found in the Ox dimension, where he is in his castle guarding it.")
+
