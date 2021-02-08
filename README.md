@@ -1,6 +1,6 @@
 # Fjot Adventure
-Text based/topdown RPG written from scratch (no external libraries). 
+Text based RPG written from scratch. Rendered in beatiful ASCII.
 
 ## Contributors
-- owowoowo, master branch developer
-- asciifeather, java port developer
+- owowoowo, developer
+- asciifeather, developer
