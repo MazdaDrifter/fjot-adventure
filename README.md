@@ -1,5 +1,5 @@
 # Fjot Adventure
-Text based RPG written from scratch. Rendered in beatiful ASCII.
+Text based RPG written from scratch. Rendered in beautiful ASCII.
 
 ## Contributors
 - owowoowo, developer
