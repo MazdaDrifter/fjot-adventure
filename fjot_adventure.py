@@ -1,5 +1,5 @@
 # Imports
-import time, random
+import time, random, fjot
 
 prompt = ">> "
 
