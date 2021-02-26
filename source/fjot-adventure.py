@@ -1,5 +1,5 @@
 # Imports
-import time, random, fjot
+import time, random
 
 prompt = ">> "
 
@@ -106,4 +106,3 @@ if "1" in io:
     print("You start exploring the village.")    
 elif "2" in io:
     print("You continue on.")
-
