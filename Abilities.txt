@@ -1,10 +1,9 @@
 Shidneka
 - Speed
-- A lot of stamina
 - Not that much health
 - Dodge
 - Dashing
-- Teleport (Uses 10 Mana, unlocked at lvl 20)
+- Teleport (Uses 10 Energy, unlocked at lvl 20)
 - Really good with melee (RNG)
 - Bad at range/projectiles
 - Memory (Memorize puzzle pieces) (15 Brain power = library system, more time you read ancient artifacts more power is gained.)

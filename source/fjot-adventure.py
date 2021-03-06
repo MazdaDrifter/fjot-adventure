@@ -1,18 +1,54 @@
-# Imports
+#// Imports
 import time, random
 
 prompt = ">> "
+energy = 9.0
 
+#// Shidneka variables.
 shidnekaRender = [
-    ""
-
-
+    "==========\n",
+    " ' ___> ' \n",
+    "==========\n",
+    "|+++++++++|\n",
+    "|+++++++++|\n",
+    "c c c c c c\n"    
 ]
-bghaysRender = []
+
+shidnekaAbils = [
+    "\tVery fast and agile.\n",
+    "\tGood memory. Helpful for puzzles. (Uses up 10 brain power)\n",
+    "\tDodging.\n",
+    "\tDashing. (Uses 2.5 energy)\n",
+    "\tTeleport. (Uses 10 energy)\n",
+    "\tGood at melee.\n"
+]
+
+shidnekaWeaknss = [
+    "\tNot a lot of health.\n",
+    "\tBad at range.\n",
+]
+
+#// @TODO: List out bghays variables.
+bghaysRender = [
+    "==========\n",
+    " O  > O   \n",
+    "   ___    \n",
+    "==========\n",
+    "=]UUUUUU[= \n",
+    " IUUUUUUI \n",
+]
+
+
 
 
 print("Welcome to Fjot Adventures!")
-print("Choose a fjot:")
+print("Choose a fjot class to start:")
+
+#// Print information about each fjot class. 
+print("Shidneka: ")
+for line in shidnekaRender:
+    print(line)
+
 fjotChosen = str(input("[1] Shidneka (extinct); [2] Bghaydsa (new);\n" + prompt))
 
 #// Chosen stuff.
@@ -40,6 +76,7 @@ elif fjotChosenStr == "Debug":
 # Pet Randomizer
 pets = ["Ghwv", "Bghy", "Pupie","Floowey","Turtoy"]
 pet = (random.choice(pets))
+
 # Pet Randomizer
 print("A wild", pet, "has decided to befriend you!")
 print("You meet a shopkeeper.")
