@@ -71,7 +71,7 @@ if fjotChosenStr == "Shidneka":
 elif fjotChosenStr == "Bghaydsa":
     print("You have many Fjot friends to support you in your journey.")
 elif fjotChosenStr == "Debug":
-    print("DEBUG MODE. HACKER ALERT. 0001100101001001\n")
+    print("DEBUG MODE.\n")
 
 # Pet Randomizer
 pets = ["Ghwv", "Bghy", "Pupie","Floowey","Turtoy"]
