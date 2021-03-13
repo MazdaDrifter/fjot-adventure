@@ -13,6 +13,9 @@
 - Items!
 
 ## Indev 0.4
-- Ascii rendering improved.
-- Story Dialogue Development
+- Added java port. (WIP)
+- Added shopkeeper!
 - Bug fixes!
+- Items!
+
+## Indev 0.5
