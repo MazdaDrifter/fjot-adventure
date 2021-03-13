@@ -1,4 +1,4 @@
-# Fjot Adventure
+# Fjot Adventures
 Text based adventure RPG. Rendered in beautiful ASCII.
 
 ## Contributors
