@@ -1,5 +1,5 @@
 # Fjot Adventures
-Text based adventure RPG. Rendered in beautiful ASCII.
+Text based adventure RPG. Rendered in beautiful ASCII and written in Python.
 
 ## Contributors
 - owowoowo, developer
