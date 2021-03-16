@@ -1,0 +1,15 @@
+GENERAL:
+ds - display stats
+dbs - display boss stats 
+
+COMBAT:
+dg - dodge 
+t - teleport
+u - up
+d - down
+r - right 
+l - left 
+a - attack 
+
+DEBUG:
+cmd - open command shell.
