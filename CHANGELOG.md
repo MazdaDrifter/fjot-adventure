@@ -22,3 +22,5 @@
 - Added ASCII renderer
 - Added text UI api.
 - Added UI list component.
+- Choices are now handled with the Terminal class.
+- Fixed bug where you could skip prompts by pressing enter.
