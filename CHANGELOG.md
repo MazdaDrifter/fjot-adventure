@@ -19,3 +19,5 @@
 - Items!
 
 ## Indev 0.5
+- Added ASCII renderer
+- Added text UI.
