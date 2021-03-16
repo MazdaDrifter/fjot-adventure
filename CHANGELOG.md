@@ -20,4 +20,5 @@
 
 ## Indev 0.5
 - Added ASCII renderer
-- Added text UI.
+- Added text UI api.
+- Added UI list component.
