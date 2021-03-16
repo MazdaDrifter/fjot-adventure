@@ -2,7 +2,13 @@
 import time, random
 
 prompt = ">> "
-energy = 9.0
+
+energy = 10.0
+hunger = 10.0
+health = 10.0
+thirst = 1.0
+stamina = 10.0
+
 
 #// Shidneka variables.
 shidnekaRender = [
@@ -58,7 +64,7 @@ def fjotChosenString(fjotChosen):
         fjotChosenStr = "Shidneka"
     elif (fjotChosen == "2"):
         fjotChosenStr = "Bghaydsa"
-    elif (fjotChosen == "debug"):
+    elif (fjotChosen == "007"):
         fjotChosenStr = "Debug"
 
     return fjotChosenStr
@@ -71,7 +77,7 @@ if fjotChosenStr == "Shidneka":
 elif fjotChosenStr == "Bghaydsa":
     print("You have many Fjot friends to support you in your journey.")
 elif fjotChosenStr == "Debug":
-    print("DEBUG MODE. HACKER ALERT. 0001100101001001\n")
+    print("Debug Mode entered.\n")
 
 # Pet Randomizer
 pets = ["Ghwv", "Bghy", "Pupie","Floowey","Turtoy"]
@@ -155,3 +161,4 @@ time.sleep(1)
 #     print("You start exploring the village.")    
 # elif "2" in io:
 #     print("You continue on.")
+
