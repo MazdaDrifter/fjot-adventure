@@ -96,7 +96,8 @@ print("You find", randMineralFound, "laying on the ground.")
 #// Prompt. Everything is handled by command module.
 #// To break the loop and exit, use Ctrl + D on bash else just exit app on Windows.
 while True:
-    fjotInstance = fjot.Fjot(health, energy, hunger, thirst)
+                            #hp, energy, hunger, thirst 
+    fjotInstance = fjot.Fjot(100, 100, 0, 0)
     cmdin = input(prompt)
     command.doCommands(cmdin, fjotInstance)
     
