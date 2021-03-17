@@ -15,7 +15,7 @@
 - Draxcalibur [104 Damage] Obtained via crafting.
 - Fire Sword [109 Damage] Obtained via flaming enemy uncommon drop.
 - Bone Sword [200 Damage] Obtain via rare drop from skeleton if quests are completed.
-- Shidneka Sword [300 Damage] Obtain via Library (Special Sword).
+- Shidneka Sword [300 Damage] Obtain via Trader (Special Sword).
 ## Endgame Weapons
 - Ox Destroyer [550 Damage] Defeat the supreme Ox.
 - Cosmic Vibrator [1000 Damage] Obtain via mythic drop from any mob once the supreme Ox has been defeated.
