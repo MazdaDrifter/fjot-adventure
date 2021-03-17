@@ -17,6 +17,7 @@ docs/ - documents like bosses for the game.
 
 ## Why the game is so cool
 ```
-Unlike other games, this is an ascii offline game that you can even play on paper.
-There are many things to do in Fjot Adventure such as completing tasks and unlocking
-weapons. Needless to say, this game is pretty cool.
+This game is the game played when everything is lost. No wifi, no nothing just a command prompt and a python interpreter. 
+Reminiscent to the old text adventures of yesteryear. In fact, fjot adventures is so portable, it can be played on a piece of paper 
+and calculator. Therefore, fjot adventures is a pretty cool game, and you should give it a try.
+```
