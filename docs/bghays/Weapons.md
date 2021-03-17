@@ -15,7 +15,7 @@
 - Jaqurifle [104 Damage] Obtained via crafting.
 - Fire Gun [109 Damage] Obtained via flaming enemy uncommon drop.
 - Bone Bow [200 Damage] Obtain via rare drop from skeleton if quests are completed.
-- Bghays Bow [300 Damage] Obtain via Library (Special Bow).
+- Bghays Bow [300 Damage] Obtain via Trader (Special Bow).
 ## Endgame Weapons
 - Ox Annihilator [550 Damage] Defeat the supreme Ox.
 - Cosmic Railgun [1000 Damage] Obtain via mythic drop from any mob once the supreme Ox has been defeated.
