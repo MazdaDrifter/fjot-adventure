@@ -13,7 +13,7 @@
 - Leafal Sword [90 Damage] Obtained via crafting in a leafy biome.
 ## Late Game Weapons
 - Draxcalibur [104 Damage] Obtained via crafting.
-- Fire Sword [109 Damage] Obtained via crafting.
+- Fire Sword [109 Damage] Obtained via flaming enemy uncommon drop.
 - Bone Sword [200 Damage] Obtain via rare drop from skeleton if quests are completed.
 - Shidneka Sword [300 Damage] Obtain via Library (Special Sword).
 ## Endgame Weapons
