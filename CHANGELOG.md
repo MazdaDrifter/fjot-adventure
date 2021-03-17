@@ -24,5 +24,10 @@
 - Added UI list component.
 - Choices are now handled with the Terminal class.
 - Fixed bug where you could skip prompts by pressing enter.
+
 ## Indev 0.51
 - Fixed some docs for future use.
+- Added npyfound (No Python Found) edition.
+- Fixed bugs.
+- Added title.
+- Added docs.
