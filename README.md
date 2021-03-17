@@ -1,6 +1,8 @@
 # Fjot Adventures
 Text based adventure RPG. Rendered in beautiful ASCII and written in Python.
 
+![fjot adventures picture](./fjotAdventures1.png)
+
 ## Contributors
 - owowoowo, developer
 - asciifeather, developer
