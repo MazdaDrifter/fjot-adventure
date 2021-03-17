@@ -12,11 +12,6 @@ import fjot
 
 prompt = ">> "
 
-health = 100
-energy = 100
-hunger = 0
-thirst = 0
-
 #// Shidneka variables.
 
 shidnekaAbils = [
