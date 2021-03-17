@@ -1,7 +1,9 @@
 #// Imports
 import time
 import random
-
+import colorama
+from colorama import Fore
+from colorama import Style
 
 #// Fjot adventure modules.
 import renderer
@@ -13,7 +15,6 @@ import fjot
 prompt = ">> "
 
 #// Shidneka variables.
-
 shidnekaAbils = [
     "\tVery fast and agile.\n",
     "\tGood memory. Helpful for puzzles (Uses up 10 brain power)\n",
@@ -32,7 +33,22 @@ shidnekaWeaknss = [
 
 
 
-print("Welcome to Fjot Adventures!")
+title = [
+    "    ...:::......::  ..::..::..:;..::..::",
+    "...:::              ..::            ,.::",
+    "...:::......::      :.,::::.,,:..,::..,:",
+    "...:::              ::.:            ::.,",
+    "...:::              :,.:            ::.:",
+    "...:::              :,.:            :.,:",
+    "...::.              :,.:            :..:",
+    "...:,               :,.:            ::.:",
+    "..,                 :,.:            .,::"
+]
+#// Reference: https://stackoverflow.com/questions/287871/how-to-print-colored-text-to-the-terminal
+for line in title:
+    print(Fore.GREEN + line)
+print(Style.RESET_ALL)
+time.sleep(3)
 print("Choose a fjot class to start:")
 
 #// Print information about each fjot class. 
