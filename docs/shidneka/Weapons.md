@@ -1,5 +1,5 @@
 ## Early Game Weapons
-- Crude Stone Sword [5 Damage] Recieved while doing quests.
+- Crude Stone Sword [5 Damage] Recieved as option from shopkeeper NPC.
 - Taco Sword [8 Damage] Obtained via common drop from Taco Man.
 - Copper Sword [10 Damage] Obtained via crafting.
 - Iron Sword [15 Damage] Obtained via crafting.
