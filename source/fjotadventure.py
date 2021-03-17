@@ -4,7 +4,7 @@ import random
 import colorama
 from colorama import Fore
 from colorama import Style
-
+from colorama import Back
 #// Fjot adventure modules.
 import renderer
 import ui
@@ -34,21 +34,21 @@ shidnekaWeaknss = [
 
 
 title = [
-    "    ...:::......::  ..::..::..:;..::..::",
-    "...:::              ..::            ,.::",
-    "...:::......::      :.,::::.,,:..,::..,:",
-    "...:::              ::.:            ::.,",
-    "...:::              :,.:            ::.:",
-    "...:::              :,.:            :.,:",
-    "...::.              :,.:            :..:",
-    "...:,               :,.:            ::.:",
-    "..,                 :,.:            .,::"
+    "||||||||||||||      |||VVVVVVVV|||     ",
+    "|||                 |||        |||     ",
+    "||||||||||||||      |||VVVVVVVV|||     ",
+    "|||                 |||        |||     ",
+    "|||                 |||        |||     ",
+    "|||                 |||        |||     ",
+    "|||                 |||        |||     ",
+    "|||                 |||        |||     ",
+    "|||             o   |||        |||   o "
 ]
 #// Reference: https://stackoverflow.com/questions/287871/how-to-print-colored-text-to-the-terminal
 for line in title:
-    print(Fore.GREEN + line)
+    print(Fore.CYAN + line)
 print(Style.RESET_ALL)
-time.sleep(3)
+time.sleep(2)
 print("Choose a fjot class to start:")
 
 #// Print information about each fjot class. 
