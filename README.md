@@ -6,6 +6,7 @@ Text based adventure RPG. Rendered in beautiful ASCII and written in Python.
 archive/ - backups are stored.
 art/ - art and other assets like documents in the game.
 source/ - source code files. 
+docs/ - documents like bosses for the game.
 ```
 
 ## Contributors
@@ -13,3 +14,11 @@ source/ - source code files.
 - asciifeather, developer
 - hai, brainstormer
 - drift, brainstormer
+
+## Why the game is so cool
+
+This game is the game played when everything is lost. No wifi, no nothing just a command prompt and a python interpreter. 
+Reminiscent to the old text adventures of yesteryear. 
+In fact, fjot adventures is so portable, it can be played on a piece of paper 
+and calculator. Therefore, fjot adventures is a pretty cool game, and you should give it a try.
+

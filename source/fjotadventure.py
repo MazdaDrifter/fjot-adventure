@@ -93,8 +93,10 @@ print("You grab " + convert.itemChosenToStr(itemChosen1) + " on the way to aid y
 print("You start your adventure!")
 time.sleep(1)
 
-mineral = str(random.randint(1,10))
-print("You find " + mineral + " laying on the ground.")
+mineralsPossible = ["iron", "copper"]
+randMineralFound = (random.choice(mineralsPossible))
+
+print("You find", randMineralFound, "laying on the ground.")
 
 #// Prompt. Everything is handled by command module.
 #// To break the loop and exit, use Ctrl + D on bash else just exit app on Windows.
