@@ -15,4 +15,4 @@
 - Anacondapwn [999 HP]
 - Flaming Dragon [1000 HP]
 - Lunaridopspa [1800 HP]
-- Ox Cow Man [3000 HP]
+- Supreme Ox [2200 HP]
