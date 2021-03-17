@@ -18,6 +18,7 @@ docs/ - documents like bosses for the game.
 ## Why the game is so cool
 ```
 This game is the game played when everything is lost. No wifi, no nothing just a command prompt and a python interpreter. 
-Reminiscent to the old text adventures of yesteryear. In fact, fjot adventures is so portable, it can be played on a piece of paper 
+Reminiscent to the old text adventures of yesteryear. 
+In fact, fjot adventures is so portable, it can be played on a piece of paper 
 and calculator. Therefore, fjot adventures is a pretty cool game, and you should give it a try.
 ```
