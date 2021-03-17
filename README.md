@@ -23,7 +23,7 @@ In fact, fjot adventures is so portable, it can be played on a piece of paper
 and calculator. Therefore, fjot adventures is a pretty cool game, and you should give it a try.
 
 ## Platforms
-### Linux & MacOS
+### Linux/WSL & MacOS
 If you are on linux or MacOS, it can be played without any dependencies, as MacOS and linux have preinstalled them already.
 
 ### Windows
