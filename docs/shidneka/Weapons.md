@@ -16,3 +16,6 @@
 - Fire Sword [109 Damage]
 - Bone Sword [200 Damage]
 - Shidneka Sword [300 Damage]
+## Endgame Weapons
+- Ox Destroyer [550 Damage]
+- Cosmic Vibrator [1000 Damage]
