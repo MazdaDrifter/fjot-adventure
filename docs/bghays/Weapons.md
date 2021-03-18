@@ -20,4 +20,6 @@
 - Ox Annihilator [550 Damage] Defeat the Ox Cow Man.
 - Cosmic Railgun [1000 Damage] Obtain via mythic drop from any mob once the supreme Ox has been defeated.
 - Goatie's Bow [4400 Damage] Obtained by defeating Supreme Goatie
-- VII [5600 Damage] Obtained by blacksmith, to prepare for Ox Cow Man V2.
+- VIX [5600 Damage] Obtained by weaponsmith, costs 10,000 tanzanite (1 tanzanite costs 600 Blue Gem equivalent of 1,000,000 emerald)
+
+- Hero's Bow [8999 Damage] Obtained after defeating Ox Cow Man.
