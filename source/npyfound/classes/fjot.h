@@ -15,7 +15,6 @@ class Fjot
         double energy;
         double hunger;
         double thirst;
-    private:
 }
 
 #endif
