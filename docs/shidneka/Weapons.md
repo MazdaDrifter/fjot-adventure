@@ -17,5 +17,8 @@
 - Bone Sword [200 Damage] Obtain via rare drop from skeleton if quests are completed.
 - Shidneka Sword [300 Damage] Obtain via Trader (Special Sword).
 ## Endgame Weapons
-- Ox Destroyer [550 Damage] Defeat the supreme Ox.
+- Ox Destroyer [550 Damage] Defeat the supreme Ox aka Ox Cow Man.
 - Cosmic Vibrator [1000 Damage] Obtain via mythic drop from any mob once the supreme Ox has been defeated.
+- Shidneka Sword Mk. II [3000 Damage]
+- Nucleus [4500 Damage]
+- Hero's End [7800 Damage] Crafted by the best blacksmith in town, granted to a hero.
