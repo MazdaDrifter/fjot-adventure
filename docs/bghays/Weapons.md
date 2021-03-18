@@ -19,4 +19,5 @@
 ## Endgame Weapons
 - Ox Annihilator [550 Damage] Defeat the Ox Cow Man.
 - Cosmic Railgun [1000 Damage] Obtain via mythic drop from any mob once the supreme Ox has been defeated.
-- VII [1200 Damage] Prepare for Ox Cow Man V2.
+- Goatie's Bow [4400 Damage] Obtained by defeating Supreme Goatie
+- VII [5600 Damage] Obtained by blacksmith, to prepare for Ox Cow Man V2.
