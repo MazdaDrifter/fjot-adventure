@@ -16,3 +16,6 @@
 - Flaming Dragon [1000 HP]
 - Lunaridopspa [1800 HP]
 - Ox Cow Man [2200 HP]
+## End Game
+- Guardian Moon [5800 HP]
+- Supreme Goatie [9900 HP]
