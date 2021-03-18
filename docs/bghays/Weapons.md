@@ -17,5 +17,6 @@
 - Bone Bow [200 Damage] Obtain via rare drop from skeleton if quests are completed.
 - Bghays Bow [300 Damage] Obtain via Trader (Special Bow).
 ## Endgame Weapons
-- Ox Annihilator [550 Damage] Defeat the supreme Ox.
+- Ox Annihilator [550 Damage] Defeat the Ox Cow Man.
 - Cosmic Railgun [1000 Damage] Obtain via mythic drop from any mob once the supreme Ox has been defeated.
+- VII [1200 Damage] Prepare for Ox Cow Man V2.
