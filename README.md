@@ -11,10 +11,14 @@ Text based adventure RPG. Rendered in beautiful ASCII and written in Python.
 
 ## Why the game is so cool
 
-This game is the game played when everything is lost. No wifi, no nothing just a command prompt and a python interpreter. 
+This game is the game played when everything is lost. No wifi, no nothing just a command prompt. 
 Reminiscent to the old text adventures of yesteryear. 
-In fact, fjot adventures is so portable, it can be played on a piece of paper 
+In fact, the idea of fjot adventures is so portable, it can be played on a piece of paper 
 and calculator. Therefore, fjot adventures is a pretty cool game, and you should give it a try.
+
+## What does it offer?
+
+It offers the player, a complex take on the world of text adventures, there are a lot of topics and strategies involved in gameplay, and I could go forever talking and diving deep into it, just look at the docs. 
 
 ## Platforms
 ### Linux/WSL & MacOS
