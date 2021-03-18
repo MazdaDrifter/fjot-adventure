@@ -19,3 +19,4 @@
 ## End Game
 - Guardian Moon [5800 HP]
 - Supreme Goatie [9900 HP]
+- Supreme Ox Cow Man [9999 HP] *He's back*
