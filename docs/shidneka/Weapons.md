@@ -15,9 +15,8 @@
 - Draxcalibur [104 Damage] Obtained via crafting.
 - Fire Sword [109 Damage] Obtained via flaming enemy uncommon drop.
 - Bone Sword [200 Damage] Obtain via rare drop from skeleton if quests are completed.
-- Shidneka Sword [300 Damage] Obtain via Trader (Special Sword).
+- Shidneka Sword [300 Damage] Given by weaponsmith, forged by the blacksmith in order to destroy Ox Cow Man.
 ## Endgame Weapons
-- Ox Destroyer [550 Damage] Defeat the supreme Ox aka Ox Cow Man.
 - Cosmic Vibrator [1000 Damage] Obtain via mythic drop from any mob once the supreme Ox has been defeated.
 - Shidneka Sword Mk. II [3000 Damage] 
 - Hero Sword [4500 Damage] Forged by the best blacksmith, crafted by the best weaponsmith, granted to a hero.
