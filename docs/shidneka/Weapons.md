@@ -20,5 +20,6 @@
 - Ox's Sword [985 Damage] Obtained after defeating the supreme Ox (Ox Cow Man).
 - Cosmic Vibrator [1000 Damage] Obtain via mythic drop from any mob once the supreme Ox has been defeated.
 - Shidneka Sword Mk. II [3000 Damage] 
-- Hero Sword [4500 Damage] Forged by the best blacksmith, crafted by the best weaponsmith, granted to a hero.
-
+- Bobby Beatsaber [4500 Damage] - Obtained by defeating bobby beats.
+- Triangle of the Pyramid [4679 Damage] - Obtained by defeating the Pyramid in the Pyramid dimension.
+- Hero's Sword [5555 Damage] - Crafted by the best weaponsmith and forged by the best blacksmith.
