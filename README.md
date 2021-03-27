@@ -20,9 +20,9 @@ and calculator. Therefore, fjot adventures is a pretty cool game, and you should
 
 It offers the player, a complex take on the world of text adventures, there are a lot of topics and strategies involved in gameplay, and I could go forever talking and diving deep into it, just look at the docs. 
 
-## Platforms
-### Linux/WSL & MacOS
-If you are on linux or MacOS, it can be played without any dependencies, as MacOS and linux have preinstalled them already.
+## How to play?
+Fjot adventure works on linux, osx and windows as long as python3 is installed. 
 
-### Windows
-If you are on Windows, you will have to install python but if you are lazy, install the C++ port.
+Navigate to the source/ directory/folder of fjotadventure.py, then, run it.
+
+```$ python3 fjotadventure.py```
