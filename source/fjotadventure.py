@@ -2,9 +2,11 @@
 import time
 import random
 import colorama
+import os
 from colorama import Fore
 from colorama import Style
 from colorama import Back
+
 #// Fjot adventure modules.
 import renderer
 import ui
@@ -67,7 +69,7 @@ if fjotChosenStr == "Shidneka":
 elif fjotChosenStr == "Bghaydsa":
     print("You have many Fjot friends to support you in your journey.")
 elif fjotChosenStr == "Debug":
-    print("")
+    print("Entered Debug Mode")
 
 # Pet Randomizer
 pets = ["Ghwv", "Bghy", "Pupie","Floowey","Turtoy"]

@@ -1,0 +1,1 @@
+cl ../fa.cpp /o out/
