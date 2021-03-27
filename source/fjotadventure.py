@@ -67,7 +67,7 @@ if fjotChosenStr == "Shidneka":
 elif fjotChosenStr == "Bghaydsa":
     print("You have many Fjot friends to support you in your journey.")
 elif fjotChosenStr == "Debug":
-    print("Debug Mode entered.\n")
+    print("")
 
 # Pet Randomizer
 pets = ["Ghwv", "Bghy", "Pupie","Floowey","Turtoy"]
@@ -109,11 +109,4 @@ randMineralFound = (random.choice(mineralsPossible))
 
 print("You find", randMineralFound, "laying on the ground.")
 
-#// Prompt. Everything is handled by command module.
-#// To break the loop and exit, use Ctrl + D on bash else just exit app on Windows.
-while True:
-                            #hp, energy, hunger, thirst 
-    fjotInstance = fjot.Fjot(100, 100, 0, 0)
-    cmdin = input(prompt)
-    command.doCommands(cmdin, fjotInstance)
-    
+

@@ -5,7 +5,7 @@ def fjotChosenString(fjotChosen):
         fjotChosenStr = "Shidneka"
     elif (fjotChosen == "2"):
         fjotChosenStr = "Bghaydsa"
-    elif (fjotChosen == "007"):
+    elif (fjotChosen == "0"): 
         fjotChosenStr = "Debug"
 
     return fjotChosenStr

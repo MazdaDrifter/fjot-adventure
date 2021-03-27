@@ -3,4 +3,4 @@ class Fjot:
         self.health = health,
         self.energy = energy,
         self.hunger = hunger,
-        self.thirst = thirst
+        self.thirst = thirst,
