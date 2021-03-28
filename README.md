@@ -3,6 +3,9 @@ Text based adventure RPG with a whole bunch of [stuff](./docs). Rendered in beau
 
 ![fjot adventures picture](./fjotAdventures.png)
 
+## It's state
+It is currently in a beta/pre-release state. The goal is to include all of the things in the [docs/](./docs) into the game.
+
 ## Contributors
 - owowoowo, developer
 - asciifeather, developer
