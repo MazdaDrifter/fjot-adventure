@@ -19,6 +19,7 @@
 - Items!
 
 ## Indev 0.5
+- Removed java port.
 - Added ASCII renderer
 - Added text UI api.
 - Added UI list component.
@@ -27,7 +28,7 @@
 
 ## Indev 0.51
 - Fixed some docs for future use.
-- Added npyfound (No Python Found)/npy (No Python) edition.
+- Added npyfound (No Python Found)/npy (No Python) edition (replacing Java port).
 - Fixed bugs.
 - Added title.
 - Added docs.
