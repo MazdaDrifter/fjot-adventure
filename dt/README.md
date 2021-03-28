@@ -1,2 +1,2 @@
 # Information
-Debug Commands testing and design prototyping.
+Debug Commands testing and command design prototype tests.
