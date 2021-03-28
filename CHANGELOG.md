@@ -27,7 +27,7 @@
 
 ## Indev 0.51
 - Fixed some docs for future use.
-- Added npyfound (No Python Found) edition.
+- Added npyfound (No Python Found)/npy (No Python) edition.
 - Fixed bugs.
 - Added title.
 - Added docs.
