@@ -22,7 +22,7 @@ Navigate to the source/ directory/folder of fjotadventure.py, then, run it.
 *For more information about how to play the game read the [documentation](./docs)*
 
 ## Modded
-Modded comes with it's own scripting language. Here's what might be adding a boss into the game.
+Modded comes with it's own scripting language. Here's what adding a boss into the game might look like:
 
 ```
 b ExampleBossName
