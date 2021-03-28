@@ -20,3 +20,25 @@ Navigate to the source/ directory/folder of fjotadventure.py, then, run it.
 ```$ python3 fjotadventure.py```
 
 *For more information about how to play the game read the [documentation](./docs)*
+
+## Modded
+Modded comes with it's own scripting language. Here's what might be adding a boss into the game.
+
+```
+b ExampleBossName
+bhp 967 
+bacc 56 
+bst 100 
+pua 3
+```
+
+b - boss name
+
+bhp - boss health
+
+bacc - boss accuracy
+
+bst - boss strength
+
+pua - power ups accepted
+
