@@ -16,21 +16,6 @@ import fjot
 
 prompt = ">> "
 
-#// Shidneka variables.
-shidnekaAbils = [
-    "\tVery fast and agile.\n",
-    "\tGood memory. Helpful for puzzles (Uses up 10 brain power)\n",
-    "\tDodging.\n",
-    "\tDashing. (Uses 2.5 energy)\n",
-    "\tTeleport. (Uses 10 energy)\n",
-    "\tGood at melee.\n"
-]
-
-shidnekaWeaknss = [
-    "\tNot a lot of health.\n",
-    "\tBad at range.\n",
-]
-
 #// @TODO: List out bghays variables.
 
 

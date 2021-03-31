@@ -1,4 +1,4 @@
-def listUI(health, energy, hunger, thirst):
+def listStats(health, energy, hunger, thirst):
         #// Take in params (health, energy, stamina, hunger, thirst) and display out.
         #// str() function converts the ints to strings.
         ui_listing = [

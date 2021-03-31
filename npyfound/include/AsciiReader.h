@@ -1,7 +1,7 @@
 #ifndef _INCLUDE_ASCIIREADER_H
 #define _INCLUDE_ASCIIREADER_H
 
-#include "framework.h"
+#include "Framework.h"
 
 class AsciiReader 
 {
