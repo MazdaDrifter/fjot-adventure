@@ -1,10 +1,17 @@
 # Fjot Adventures
-Text based adventure RPG with a whole bunch of [stuff](./docs). Rendered in beautiful ASCII and written in Python.
+Text based adventure RPG with a whole bunch of [stuff](./docs). Rendered in beautiful ASCII and written in Python and C++.
 
 ![fjot adventures picture](./fjotAdventures.png)
 
 ## It's state
-It is currently in a beta/pre-release state. The goal is to include all of the things in the [docs/](./docs) into the game.
+It is currently in the indev (in development) stage. The goal is to include all of the things in the [docs/](./docs) into the game.
+
+## It's versions
+The versions of fjot adventure, why are there so many?
+
+Modded - where the modloader is stored, used for modded.
+npy/npyfound - C++ version, this one is just the python version, but more refined and can be installed without python3.
+py - The python edition.
 
 ## Contributors
 - owowoowo, developer/creator
