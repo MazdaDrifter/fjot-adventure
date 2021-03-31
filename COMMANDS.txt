@@ -1,15 +1,22 @@
 GENERAL:
 ds - display stats
 dbs - display boss stats 
+lb - list inventory
+ab - inventory menu, access things from inventory.
+
+OPERATORS:
++ - combine commands/choices/moves together
+@ - from function 
+
+MOVEMENT:
+r - right
+l - left
+g - grab an item
+
 
 COMBAT:
 dg - dodge 
 t - teleport
-u - up
-d - down
-r - right 
-l - left 
-a - attack 
-
-DEBUG:
-cmd - open command shell.
+ua - upper attack
+da - downwards attack
+fa - forward attack
