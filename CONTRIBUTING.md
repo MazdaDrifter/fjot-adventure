@@ -14,14 +14,13 @@ g++
 ```
 
 ### Linux 
-Navigate to the fjot-adventure/npyfound/script directory. Run the scripts.
+Navigate to the fjot-adventure/npyfound/script directory. Compile.
 ```
-$ chmod +x compile.sh
-$ ./compile.sh
-```
+$ g++ -o fa FA.cpp
 
-### Windows
-Same goes for windows, run the .bat file.
 ```
-> compile.bat
+### Windows
+Same goes for windows.
+```
+> g++ -o fa.exe FA.cpp
 ```
