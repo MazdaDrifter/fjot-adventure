@@ -25,3 +25,8 @@ sect.endDrawingSection()
 # +====================+
 #    Options Section.
 # +====================+
+sect.startDrawingSection()
+
+options.output()
+
+sect.endDrawingSection()
