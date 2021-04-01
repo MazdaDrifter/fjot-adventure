@@ -2,7 +2,7 @@
 Text based adventure RPG with a whole bunch of [stuff](./docs). Rendered in beautiful ASCII and written in Python and C++.
 
 ## About
-You are a fjot who has woken up and noticed that your entire species has been abducted by the Oxes. You will go on a quest to save the other fjots and defeat the Oxes.
+You are a fjot who has woken up and noticed that your entire species has been abducted by the Oxes. You will go on a quest to save the other fjots and defeat the Oxes. Through this journey you, the player unlock special abilities, new knowledge on the world that is.
 
 ![fjot adventures picture](./fjotAdventures.png)
 
