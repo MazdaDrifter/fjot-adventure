@@ -23,4 +23,5 @@
 - Goatie's Bow [2333 Damage] Obtained by defeating Supreme Goatie
 - VIX [4500 Damage] Obtained by weaponsmith, costs 10,000 tanzanite (1 tanzanite costs 600 Blue Gem equivalent of 1,000,000 emerald)
 
-- Hero's Bow [5555 Damage] Given to a hero, obtained from the best blacksmith and weaponsmith.
+- ZED Projectile [5700 Damage] 
+- Hero's Bow [7899 Damage] Given to a hero, obtained from the best blacksmith and weaponsmith.
