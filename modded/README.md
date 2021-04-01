@@ -1,2 +1,2 @@
 # Information
-This is where fjot adventures modded will be stored. A custom version all built for loading .fam (fjot adventure mod script) files. The FAML (Fjot Adventure Mod Loader) will be stored here. 
+This is where fjot adventures mod resources will be stored. A custom version built for loading .fam (FjotAdventureModScript) files. The FAML (Fjot Adventure Mod Loader) used to run the mod resources into the game will be stored here. 
