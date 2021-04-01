@@ -1,6 +1,0 @@
-GOAL: Go to the ox dimension and defeat Ox man (20,000HP).
-Ending: You save the fjots from the ox guys.
-
-Every puzzle completed the player gains +10HP
-Every move is operated via energy.
-Thinking is operated by brain power. Only Shidnekas can do this though.
