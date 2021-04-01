@@ -1,4 +1,4 @@
-# Fjot Adventures
+# Fjot Adventures: Have your own little adventure
 Text based adventure RPG with a whole bunch of [stuff](./docs). Rendered in beautiful ASCII and written in Python and C++.
 
 ![fjot adventures picture](./fjotAdventures.png)
