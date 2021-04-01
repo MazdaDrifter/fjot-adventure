@@ -23,5 +23,8 @@
 - Goatie's Bow [2333 Damage] Obtained by defeating Supreme Goatie
 - VIX [4500 Damage] Obtained by weaponsmith, costs 10,000 tanzanite (1 tanzanite costs 600 Blue Gem equivalent of 1,000,000 emerald)
 
-- ZED Projectile [5700 Damage] 
+- ZPY Projectile [5700 Damage] - Obtained by going to the depths of the ZPY dimension.
 - Hero's Bow [7899 Damage] Given to a hero, obtained from the best blacksmith and weaponsmith.
+
+## Secret Weapons
+Player II [3500 Damage] - Arcade dimension sword/gun.
