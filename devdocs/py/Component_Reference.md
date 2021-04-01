@@ -1,4 +1,4 @@
-# Component Reference
+# Component Reference / Easy access modules of the game
 Components for building a scene and it's functions.
 
 - ReaderComponent - Accepts a filepath and outputs the contents of a file. Example:
