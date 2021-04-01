@@ -22,4 +22,5 @@
 - Shidneka Sword Mk. II [3000 Damage] 
 - Bobby Beatsaber [4500 Damage] - Obtained by defeating bobby beats.
 - Triangle of the Pyramid [4679 Damage] - Obtained by defeating the Pyramid in the Pyramid dimension.
-- Hero's Sword [5555 Damage] - Crafted by the best weaponsmith and forged by the best blacksmith.
+- ZED Sword [6788 Damage] - Obtained via crafting.
+- Hero's Sword [7000 Damage] - Crafted by the best weaponsmith and forged by the best blacksmith.
