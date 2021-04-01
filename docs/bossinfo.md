@@ -1,7 +1,7 @@
 ## Early Game
-- Gary [20 HP]
-- Taco Man [60 HP]
-- Poery the Poet [80 HP]
+- Gary [20 HP, 10 Strength, 10 Accuracy]
+- Taco Man [60 HP, 13 Strength, 10 Accuracy]
+- Poery the Poet [80 HP, 45 Strength, 19 Accuracy]
 ## Mid Game
 - VB [100 HP]
 - Pit Keppal [129 HP]
@@ -16,6 +16,7 @@
 - Flaming Dragon [1000 HP]
 - Lunaridopspa [1800 HP]
 ## End Game
+- The Supreme Ox Cow Man [4555 HP]
 - Guardian Moon [5800 HP]
 - Supreme Goatie [9900 HP]
-- Supreme Ox Cow Man [9999 HP] *He's back*
+- GNo [9978 HP]
