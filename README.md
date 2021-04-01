@@ -10,7 +10,7 @@ You are a fjot who has woken up and noticed that your entire species has been ab
 It is currently in the indev (in development) stage. The goal is to include all of the things in the [docs/](./docs) into the game.
 
 ## Contributing
-If you're new feel free to take a look at [CONTRIBUTING.md](./CONTRIBUTING.md)
+If you're new here feel free to take a look at [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Contributors
 - owowoowo, developer/creator
