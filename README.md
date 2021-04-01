@@ -6,7 +6,7 @@ You are a fjot who has woken up and noticed that your entire species has been ab
 
 ![fjot adventures picture](./fjotAdventures.png)
 
-## It's state
+## Its current state
 It is currently in the indev (in development) stage. The goal is to include all of the things in the [docs/](./docs) into the game.
 
 ## Contributing
