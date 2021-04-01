@@ -4,6 +4,9 @@ When making a commit, you must pull request. These are some of the regulations y
 - Variables should follow the camel case rule.
 - Look at [docs/](./docs) for reference.
 
+## Adding art
+The ascii art must be uploaded in the 16x16 format or at minimum, 8x8. Feel free to add art in the [art/](./art/) directory as long as it follows the wiki/docs as reference.
+
 ## Building
 ## Npy Version/C++ Version
 Dependencies needed:
