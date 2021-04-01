@@ -14,13 +14,13 @@
 ## Late Game Weapons
 - Jaqurifle [104 Damage] Obtained via crafting.
 - Fire Gun [109 Damage] Obtained via flaming enemy uncommon drop.
-- Bone Bow [200 Damage] Obtain via rare drop from skeleton if quests are completed.
+- Bone Bow [200 Damage +10 Health] Obtain via rare drop from skeleton if quests are completed.
 - Bghays Bow [300 Damage] Obtain via Trader (Special Bow).
 - Ox Annihilator [350 Damage] Defeat the Ox Cow Man.
 ## Endgame Weapons
-- Ox's Projectile [550 Damage]
+- Ox's Projectile [550 Damage +56 Health] Obtained by defeating the Ox.
 - Cosmic Railgun [1200 Damage] Obtain via mythic drop from any mob once the supreme Ox has been defeated.
 - Goatie's Bow [2333 Damage] Obtained by defeating Supreme Goatie
 - VIX [4500 Damage] Obtained by weaponsmith, costs 10,000 tanzanite (1 tanzanite costs 600 Blue Gem equivalent of 1,000,000 emerald)
 
-- Hero's Bow [5555 Damage] Obtained after defeating Ox Cow Man.
+- Hero's Bow [5555 Damage] Given to a hero, obtained from the best blacksmith and weaponsmith.
