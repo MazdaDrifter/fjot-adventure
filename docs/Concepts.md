@@ -15,3 +15,6 @@ Inventory:
 ```
 
 A player can combine two items together using the `+` operator.
+
+# Thirst
+To buy a jug, the trader usually sells it for 10 coins. Once a jug has been bought the player will need to find a lake or a river to supply for water. 
