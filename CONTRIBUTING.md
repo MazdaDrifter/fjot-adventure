@@ -5,7 +5,7 @@ When making a commit, you must pull request. These are some of the regulations y
 - Look at [docs/](./docs) for reference.
 
 ## Building
-## Npy Version
+## Npy Version/C++ Version
 Dependencies needed:
 
 ```
@@ -26,4 +26,11 @@ $ g++ -o fa FA.cpp
 Same goes for windows.
 ```
 > g++ -o fa.exe FA.cpp
+```
+
+## Py Version
+Just run:
+
+```
+python3 FjotAdventure.py
 ```
