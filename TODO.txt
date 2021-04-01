@@ -1,0 +1,5 @@
+TODO
+======
+Update CONTRIBUTING.md 
+Work on npy version
+Update wiki
