@@ -3,3 +3,6 @@ TODO
 Update CONTRIBUTING.md 
 Work on npy version
 Update wiki
+Add art
+Work on modloader
+Clean repo
