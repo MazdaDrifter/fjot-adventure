@@ -15,8 +15,7 @@ If you're new here feel free to take a look at [CONTRIBUTING.md](./CONTRIBUTING.
 ## Contributors
 - owowoowo, developer/creator
 - asciifeather, developer/creator
-- hai, minor brainstormer
-- drift, major brainstormer
+- drift, major brainstormer/artist
 
 ## Running it
 Fjot adventure works on linux, osx and windows as long as python3 is installed. 
