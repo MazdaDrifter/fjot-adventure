@@ -17,7 +17,6 @@ g++
 Navigate to the fjot-adventure/npyfound/script directory. Compile.
 ```
 $ g++ -o fa FA.cpp
-
 ```
 ### Windows
 Same goes for windows.
