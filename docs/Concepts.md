@@ -21,3 +21,12 @@ To buy a jug, the trader usually sells it for 10 coins. Once a jug has been boug
 
 # Currency
 Coins can be obtained by killing enemies or selling items. You can use these in the various shops.
+
+# Fancy Text Boxes
+These can be used for some bosses that require speech.
+
+```
++---------------------------------+
+(Text Here)
++---------------------------------+
+```
