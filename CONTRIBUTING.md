@@ -5,12 +5,16 @@ When making a commit, you must pull request. These are some of the regulations y
 - Look at [docs/](./docs) for reference.
 
 ## Building
-These are the instructions for building. Currently linux and Windows are only supported in this documentation, (please update for macOS).
 ## Npy Version
 Dependencies needed:
 
 ```
 g++
+```
+
+### MacOS
+```
+$ g++ -o fa.exe FA.cpp
 ```
 
 ### Linux 
