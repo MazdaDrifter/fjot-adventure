@@ -11,7 +11,9 @@ It is currently in the indev (in development) stage. The goal is to include all 
 
 ## Vocabulary
 fjot - the player
+
 shidneka - a fjot class (melee class)
+
 bghays - a fjot class (projectile/range class)
 
 ## Contributing
