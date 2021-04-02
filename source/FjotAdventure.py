@@ -1,4 +1,5 @@
 # New Edition. See archives/ for an older version.
+# Author: asciiFeather
 # About File: Stores the titlescreen and runs the specific version.
 import time, platform, random
 from Components import Reader, Cmd, Section
