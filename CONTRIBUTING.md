@@ -1,8 +1,12 @@
 # Contributing
-When making a commit, it is required that you do a pull request. When making a commit, keep these in mind:
+When making a commit, it is required that you do a pull request. Pull requests are great for reviewing code of yours, and is a good way to keep this repository maintained. Once your pull request has been accepted your code can now be properly merged with the master branch.
 
-- Variables should follow the camel case rule.
-- Refer to the docs/ for reference.
+## For developers
+When developing code in the repo, please remember to:
+
+- Follow camel case naming rules.
+- Comment what the file is about.
+- Please make the variables and functions names clearly understandable.
 
 ## Adding art
 The ascii art must be uploaded in the 16x16 format or at minimum, 8x8. Feel free to add art in the [art/](./art/) directory as long as it follows the wiki/docs as reference.
