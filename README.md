@@ -9,6 +9,11 @@ You are a fjot who has woken up and noticed that your entire species has been ab
 ## Its current state
 It is currently in the indev (in development) stage. The goal is to include all of the things in the [docs/](./docs) into the game.
 
+## Vocabulary
+fjot - the player
+shidneka - a fjot class (melee class)
+bghays - a fjot class (projectile/range class)
+
 ## Contributing
 If you're new here feel free to take a look at [CONTRIBUTING.md](./CONTRIBUTING.md)
 
