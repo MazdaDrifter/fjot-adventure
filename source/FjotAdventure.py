@@ -4,6 +4,18 @@ import time, platform, random
 from Components import Reader, Cmd, Section
 from Entities import Fjot
 
+from os import system, name
+
+# Ref: https://www.geeksforgeeks.org/clear-screen-python/
+def clear():
+    # Windows
+    if name == 'nt':
+        _ = system('cls')
+    # *nix
+    else:
+        _ = system('cls')
+
+
 # ReaderComponent - accepts a filepath.
 scene = Reader.ReaderComponent('art/titlescreen.ascii')
 options = Reader.ReaderComponent('text/titlescreen_options.txt')
@@ -11,6 +23,9 @@ prompt = '>'
 
 # SectionComponent - accepts a seperator string.
 sect = Section.SectionComponent('+============================================================================+')
+
+# First, clear the screen.
+clear()
 
 # +====================+
 #    Scene Section.
@@ -30,3 +45,5 @@ sect.startDrawingSection()
 options.output()
 
 sect.endDrawingSection()
+
+# End
