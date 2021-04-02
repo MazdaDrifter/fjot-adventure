@@ -17,7 +17,7 @@ shidneka - a fjot class (melee class)
 bghays - a fjot class (projectile/range class)
 
 ## Contributing
-If you're new here feel free to take a look at [CONTRIBUTING.md](./CONTRIBUTING.md)
+If you're new here feel free to take a look at [CONTRIBUTING.md](./CONTRIBUTING.md). If you're stuck feel free to ask one of the members (owowoowo, drift) to direct you.
 
 ## Contributors
 - owowoowo, developer/creator
