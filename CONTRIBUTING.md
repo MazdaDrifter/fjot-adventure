@@ -9,7 +9,7 @@ When developing code in the repo, please remember to:
 - Please make the variables and functions names clearly understandable.
 
 ## Adding art
-The ascii art must be uploaded in the 16x16 format or at minimum, 8x8. Feel free to add art in the [art/](./art/) directory as long as it follows the wiki/docs as reference.
+The ascii art must be uploaded in the 16x16 format or at minimum, 8x8. Feel free to add art in the [art/](./art/) directory as long as it follows the wiki/docs as reference. Feel free to also add your own art which might be added into the game as long as it is not vulgar and offensive.
 
 ## Building
 ## Npy Version/C++ Version (Please update for Windows)
