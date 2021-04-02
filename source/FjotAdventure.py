@@ -10,15 +10,15 @@ from os import system, name
 def clear():
     # Windows
     if name == 'nt':
-        _ = system('cls')
+        system('cls')
     # *nix
     else:
-        _ = system('cls')
+        system('clear')
 
 
 # ReaderComponent - accepts a filepath.
-scene = Reader.ReaderComponent('art/titlescreen.ascii')
-options = Reader.ReaderComponent('text/titlescreen_options.txt')
+scene = Reader.ReaderComponent('../art/titlescreen.ascii')
+options = Reader.ReaderComponent('../text/titlescreen_options.txt')
 prompt = '>'
 
 # SectionComponent - accepts a seperator string.
